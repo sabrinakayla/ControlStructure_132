@@ -1,4 +1,4 @@
-nilai =(input("Masukkan Nilai : "))
+nilai=float(input("Masukkan Nilai : "))
 if nilai >= 90 :
     print("Excellent performance")
 elif nilai >= 80 :
